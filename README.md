@@ -4,7 +4,7 @@ This project implements a movie recommendation system using Python. It includes 
 
 ## Folder Structure
 
-- **data/**: Contains datasets used in the project.
+- **data/**: Contains datasets used in the project. (data-dev for development purposes).
 - **models/**: Stores trained machine learning models.
 - **src/**: Source code directory containing main modules.
 - **tests/**: Unit tests for each module.
